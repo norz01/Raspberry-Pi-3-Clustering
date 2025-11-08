@@ -1,9 +1,8 @@
 ## English Version
 
-<p align="right">
-  <img alt="Language" src="https://img.shields.io/badge/Language-English-blue">&nbsp;
-  <a href="./PANDUAN-BM.md"><img alt="Language" src="https://img.shields.io/badge/Language-Bahasa%20Melayu-orange"></a>
-</p>
+### 🌐 **Pilihan Bahasa / Language Selection**
+
+[🇲🇾 Bahasa Melayu](PANDUAN-BM.md) | [🇬🇧 English](README.md)
 
 This guide documents the process of building a 4-node Kubernetes (K3s) cluster using Raspberry Pis. This project utilizes a "gateway" network topology, where one node (`main`) acts as the internet gateway for the other three worker nodes (`worker`), which reside on an isolated, private network.
 
